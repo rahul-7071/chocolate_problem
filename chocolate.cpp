@@ -16,9 +16,9 @@ if (money==0)
 
 }
 else if (money==1||money==2)
-   cout<<"Total No of chocolate you will get : "<<(choco)+1<<endl;
+   
 {
-    /* code */
+    cout<<"Total No of chocolate you will get : "<<(choco)+1<<endl;
 }
 
 
